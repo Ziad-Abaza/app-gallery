@@ -1,0 +1,31 @@
+[
+  {
+    "id": "program-1",
+    "title": "WiFi Controller App",
+    "description": "This is a Flutter application that allows you to control a car using WiFi (TCP/IP sockets)",
+    "long_description": "WiFi Car Controller is a Flutter-based application that enables real-time wireless control of a car over a WiFi network, offering both joystick and button interfaces, adjustable speed, and seamless integration with ESP8266/ESP32 hardware for smooth and precise navigation.",
+    "icon": "assets/images/program-1-icon.png",
+    "screenshots": [
+      "assets/images/program1-screenshot1.jpg",
+      "assets/images/program1-screenshot2.jpg",
+      "assets/images/program1-screenshot3.jpg",
+      "assets/images/program1-screenshot4.jpg",
+      "assets/images/program1-screenshot5.jpg"
+    ],
+    "download_link": "assets/downloads/program1.apk"
+  },
+  {
+    "id": "program-2",
+    "title": "Bluetooth Controller App",
+    "description": "This is a Flutter application that allows you to control a car using Bluetooth",
+    "long_description": "This is a Flutter application that allows you to control a car using Bluetooth. The app provides different control options including joysticks and buttons for forward, backward, left, and right movements. It is designed to work with Bluetooth-enabled hardware such as Arduino and HC-05 modules.",
+    "icon": "assets/images/program2-icon.png",
+    "screenshots": [
+      "assets/images/program2-screenshot1.jpg",
+      "assets/images/program2-screenshot2.jpg",
+      "assets/images/program2-screenshot3.jpg",
+      "assets/images/program2-screenshot4.jpg"
+    ],
+    "download_link": "assets/downloads/program2.apk"
+  }
+]
